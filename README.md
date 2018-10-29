@@ -1,0 +1,1 @@
+The purpose of this repository is to house my resume and other documents and files that may be useful for my job searching. These files may change some over time but will mostly be static. This is not designed to be a blog or any sort of dynamic web content. However, github is a perfectly good place to start in order to contact me.
